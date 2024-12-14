@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FiguraDetailFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/hello_blank_fragment" />
+
+</FrameLayout>
+
+<ScrollView
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent">
+
+<https://figuras-n900keow2-talento-projects.vercel.app/figuras/2 {"id": 2, "nombre":"Buzz Lightyear", "logo": "https://http2.mlstatic.com/D_NQ_NP_967684- MLU70320451465_072023-O.webp", "fecha_creacion": "1995", "origen": "Toy Story", "pelicula": "Toy Story (1995)", "descripcion": "Buzz es un guardián espacial de juguete y uno de los personajes principales de Toy Story.", "colores": ["Blanco","Verde","Púrpura"], "disponibilidad": true," precio": 30000}>
+
+</ScrollView>
